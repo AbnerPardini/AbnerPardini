@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img src="banner-github.png" width="100%" alt="Abner Pardini - Desenvolvedor Full Stack"/>
+</div>
+
 # Olá! Eu sou Abner Pardini
 
 ### Desenvolvedor Full Stack | Desenvolvimento Web | Soluções Digitais
