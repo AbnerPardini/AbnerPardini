@@ -1,7 +1,9 @@
 <div align="center">
-
-<div align="center">
-  <img src="banner-github" width="100%" alt="Abner Pardini - Desenvolvedor Full Stack"/>
+  <img 
+    src="./banner-github.jpg" 
+    width="100%" 
+    alt="Abner Pardini - Desenvolvedor Full Stack"
+  />
 </div>
 
 # Olá! Eu sou Abner Pardini
