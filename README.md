@@ -1,7 +1,7 @@
 <div align="center">
-  <img 
-    src="./banner-github.jpg" 
-    width="100%" 
+  <img
+    src="./banner-github.jpg"
+    width="100%"
     alt="Abner Pardini - Desenvolvedor Full Stack"
   />
 </div>
