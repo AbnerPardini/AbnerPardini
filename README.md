@@ -67,9 +67,10 @@ Projeto voltado à automatização de processos e visualização de informaçõe
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=AbnerPardini&show_icons=true&hide_border=true&title_color=0284C7&icon_color=0891B2&text_color=334155&bg_color=FFFFFF" alt="Estatísticas do GitHub"/>username=AbnerPardini&show_icons=true&hide_border=true&title_color=0284C7&icon_color=0891B2&text_color=334155&bg_color=FFFFFF"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AbnerPardini&show_icons=true&hide_border=true&title_color=0284C7&icon_color=0891B2&text_color=334155&bg_color=FFFFFF" alt="Estatísticas do GitHub"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerPardini&layout=compact&hide_border=true&title_color=0284C7&text_color=334155&bg_color=FFFFFF"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbnerPardini&layout=compact&hide_border=true&title_color=0284C7&text_color=334155&bg_color=FFFFFF" alt="Linguagens mais utilizadas"/>
+
 
 </div>
 
